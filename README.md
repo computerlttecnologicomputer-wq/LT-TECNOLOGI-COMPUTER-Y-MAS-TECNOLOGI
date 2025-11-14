@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <meta name="description" content="LT TECNOLOGI COMPUTER - Tecnologia de la mejor calidad, precios accesibles y envío a toda la  Argentina.">
+   <meta name="description" content=" - Tecnologia de la mejor calidad, precios accesibles y envío a toda la  Argentina.">
   <style>
     body {
       font-family: Arial, sans-serif;
